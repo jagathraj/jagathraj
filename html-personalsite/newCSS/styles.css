@@ -1,0 +1,49 @@
+body{
+  margin:0;
+text-align: center;
+}
+h1{
+  margin-top: 0;
+  position:relative;
+  top:50px;
+
+}
+
+.top-container{
+  background-color: #a7c5eb;
+  padding-top: 100px;
+}
+.bottom{
+  position: absolute;
+
+}
+.topCloud{
+  position:absolute;
+  right:500px;
+}
+.p1{
+  position:relative;
+  top:55px;
+}
+.mountain{
+
+}
+.dp{
+  width: 200px;
+  height: 300px;
+
+}
+.js{
+  height: 200px;
+  width:300px;
+}
+.cs{
+  height: 200px;
+  width:300px;
+}
+.middle-container{
+  background-color: #cdfffc;
+}
+.bottom-container{
+  background-color:#a3ddcb;
+}
